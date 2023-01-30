@@ -1,0 +1,3 @@
+# spring boot starter
+# ??@EnableAutoConfiguration ??
+# org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.byc.UserAutoConfiguration
